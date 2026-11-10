@@ -20,7 +20,37 @@
 ---
 
 ## 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode,html,css" />
+</p>
+
+**Data Analytics Skills**
+
+- 📊 Data Analytics
+- 🐼 Data Analysis using Python
+- 📈 Data Visualization
+- 🗄️ SQL and Database Management
+- 📑 Excel and Data Interpretation
+
+**Areas of Interest**
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Generative AI
+- AI Agents
+- Natural Language Processing
+- Business Intelligence
 **Programming Languages**
 
 <p>
