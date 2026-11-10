@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Somanth Kumar</h1>
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Somanth Kumar GitHub Banner">
+</p><h1 align="center">👋 Hi, I'm Somanth Kumar</h1>
 
 <h3 align="center">AI/ML Enthusiast | Python Developer | Aspiring AI Engineer</h3>
 
